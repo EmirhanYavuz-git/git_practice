@@ -1,4 +1,4 @@
-package day3;
+package day20;
 
 public class Payment {
 
